@@ -8,8 +8,8 @@ logo: /img/jkan.png
 theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: bc7bc4106aed76ea8f01
+gatekeeper_host: https://open-data-corato.herokuapp.com
 
 # Dataset schema
 schema: default
